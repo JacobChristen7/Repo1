@@ -1,2 +1,2 @@
-This is a text file.
-Awsome!
+This is a modified text file.
+Cool!
